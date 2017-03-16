@@ -10,9 +10,6 @@ public static void main(String[] args){
 	
 	Triangle tri = new Triangle();
 	
-	tri.display();
-	
-	
 	System.out.println("Solving...");
 	solve(tri);
 	System.out.println("Solved");
